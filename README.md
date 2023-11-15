@@ -7,4 +7,21 @@
 ![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-13%20223045.png) 
 
 Клонирование личного удалённого репозитория на компьютер:
-![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20152504.png)
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20234238.png)
+
+Добавление файла через интерфейс GitHub: 
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20005404.png)
+
+Изменения подтянуты в локальный репозиторий:
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20005629.png)
+
+История операций для каждой из веток<br> 
+Для ветки master:
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20010054.png) <br>
+Для ветки branch1:
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20010338.png)
+
+Последнее изменение:
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20010858.png)
+
+
