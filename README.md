@@ -30,12 +30,25 @@
 Отследим конфликт с помощью vscode:<br>
 ![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20165009.png)<br>
 
-Разрешим конфликт: <br>
-![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20165108.png) <br>
+Разрешим конфликт:<br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20165108.png)<br>
 
-И сделаем коммит файла слияния:
+И сделаем коммит файла слияния: <br>
 ![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20170429.png)
 
-После успешного слияния побочная ветка была удалена:
+После успешного слияния побочная ветка была удалена: <br>
 ![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20171629.png)
 
+Делаем несколько коммитов: <br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20192020.png) <br>
+
+История коммитов на GitHub: <br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20191615.png)
+
+Делаем откат последнего коммита: <br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20194425.png) <br>
+И проверяем: <br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20194547.png)
+
+Создана ветка для отчета: <br>
+![](https://github.com/Nastiaaaaaa/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-15%20195344.png)
